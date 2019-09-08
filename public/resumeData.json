@@ -1,0 +1,108 @@
+{
+  "main": {
+    "name":"Mickael Poulhazan",
+    "occupation":"Software Developper",
+    "description":"Full Stack Developper, I like to develop Backend applications in JAVA or Node. For the front, I use Javascript with frameworks, like Angular or React",
+    "image":"profilepic.jpg",
+    "bio":"Full stack developper, I like to meet challenges",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "mickael.poulhazan@gmail.com",
+    "phone": "(+33)6 45 89 47 48",
+    "address":{
+      "street":"3 Square Jean heurtin",
+      "city":"Nantes",
+      "state":"France",
+      "zip": "44000"
+    },
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/micka%C3%ABl-poulhazan-59158761/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/MPoulhazan",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"University of South Britanny",
+        "degree":"Masters Degree's",
+        "graduated":"June 2014",
+        "description":"C, C++, Algorithm"
+      },
+      {
+        "school":"University of South Britanny",
+        "degree":"Bachelor's degree",
+        "graduated":"June 2012",
+        "description":"Language C"
+      }
+    ],
+    "work":[
+      {
+        "company":"Thales Services",
+        "title":"Developper Full Stack",
+        "years":"December 2017 - Present",
+        "description":"Developpement of applications for civil or military domains."
+      },
+      {
+        "company":"TRSB",
+        "title":"Developper",
+        "years":"November 2014 - December 2017",
+        "description":"My fist Job, where I worked for big groups like RATP"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"Javascript",
+        "level":"75%"
+      },
+      {
+        "name":"Angular",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"React",
+        "level":"40%"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"Text",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
