@@ -1,107 +1,196 @@
 {
   "main": {
-    "name":"Mickael Poulhazan",
-    "occupation":"Software Developper",
-    "description":"Full Stack Developper, I like to develop Backend applications in JAVA or Node. For the front, I use Javascript with frameworks, like Angular or React",
-    "image":"profilepic.jpg",
-    "bio":"Full stack developper, I like to meet challenges",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "name": "Mickael Poulhazan",
+    "occupation": "Software Developper",
+    "description": "Full Stack Developper, I like to develop Backend applications in JAVA or Node. For the front, I use Javascript with frameworks, like Angular or React",
+    "image": "profilepic.jpg",
+    "bio": "Full stack developper, I like to meet challenges",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "mickael.poulhazan@gmail.com",
     "phone": "(+33)6 45 89 47 48",
-    "address":{
-      "street":"3 Square Jean heurtin",
-      "city":"Nantes",
-      "state":"France",
+    "address": {
+      "street": "3 Square Jean heurtin",
+      "city": "Nantes",
+      "state": "France",
       "zip": "44000"
     },
-    "social":[
+    "social": [
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/micka%C3%ABl-poulhazan-59158761/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/micka%C3%ABl-poulhazan-59158761/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"github",
-        "url":"https://github.com/MPoulhazan",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/MPoulhazan",
+        "className": "fa fa-github"
       },
       {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "name": "skype",
+        "url": "http://skype.com",
+        "className": "fa fa-skype"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"",
-    "education":[
+  "resume": {
+    "skillmessage": "",
+    "education": [
       {
-        "school":"University of South Britanny",
-        "degree":"Masters Degree's",
-        "graduated":"June 2014",
-        "description":"C, C++, Algorithm"
+        "school": "University of South Britanny",
+        "degree": "Masters Degree's",
+        "graduated": "June 2014",
+        "description": "Electronic and Computer Engennering"
       },
       {
-        "school":"University of South Britanny",
-        "degree":"Bachelor's degree",
-        "graduated":"June 2012",
-        "description":"Language C"
+        "school": "University of South Britanny",
+        "degree": "Bachelor's degree",
+        "graduated": "June 2012",
+        "description": "Electronic and Computer Engennering"
+      },
+      {
+        "school": "Colbert College, Lorient",
+        "degree": "BTEC Higher National Diploma",
+        "graduated": "June 2011",
+        "description": "Electronic and Computer science"
+      },
+      {
+        "school": "Colbert College, Lorient",
+        "degree": " General Certificate of Education Advanced Level",
+        "graduated": "June 2009",
+        "description": "Electrotechnical"
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Thales Services",
-        "title":"Developper Full Stack",
-        "years":"December 2017 - Present",
-        "description":"Developpement of applications for civil or military domains."
+        "company": "Thales Services",
+        "title": "Developper Full Stack",
+        "years": "December 2017 - Present",
+        "description": "Developpement of applications for civil or military domains.",
+        "project": [
+          {
+            "name": "Hysio",
+            "roles": [
+              "Développements et maintenance évolutive",
+              "Développement d’une application en Angular 8 avec Ionic",
+              "Responsable INFRA du projet",
+              "Mise en place de consumers Kafka en SpringBoot",
+              "Intégration d’ElasticSearch",
+              "Développement de dashboard de monitoring",
+              "Ateliers techniques participatifs",
+              "Travail en équipe",
+              "Animation retrospectives",
+              "Veille techno"
+            ],
+            "technos": "JAVA, SpringBoot, Angular, Kafka, ElasticSearch, HighCharts, Thymeleaf, Jooq, Architecture micro-services, programmation fonctionelle, programmation réactive, Agile, Monitoring"
+          },
+          {
+            "name": "Paasport",
+            "roles": [
+              "Développements et maintenance évolutive",
+              "Ateliers techniques participatifs",
+              "Travail en équipe",
+              "Veille techno"
+            ],
+            "technos": "JAVA, SpringBoot, Go, Architecture micro-services"
+          },
+          {
+            "name": "Devfest",
+            "roles": [
+              "Lead technique sur un projet de développement d'animation au stand Thales du devfest 2019"
+            ],
+            "technos": "JAVA, SpringBoot, Go, Architecture micro-services"
+          }
+        ]
       },
       {
-        "company":"TRSB",
-        "title":"Developper",
-        "years":"November 2014 - December 2017",
-        "description":"My fist Job, where I worked for big groups like RATP"
+        "company": "TRSB",
+        "title": "Developper",
+        "years": "November 2014 - December 2017",
+        "description": "My fist Job, where I worked for big groups like RATP",
+        "project": [
+          {
+            "name": "RATP",
+            "roles": [
+              "Développement de portlet JSR286 à partir de WS REST",
+              "Refonte de l’intranet RATP",
+              "Migration CMS",
+              "Qualification ticket et chiffrage évolutions",
+              "Rédaction modop et documents",
+              "Management d’équipe",
+              "Contact client",
+              "Recette et livraisons"
+            ],
+            "technos": "JAVA, Spring, JSR286, MVC, SOAP, REST, Javascript, CSS3, HTML5, JCMS"
+          },
+          {
+            "name": "Business France",
+            "roles": [
+              "Création d'un intranet collaboratif"
+            ],
+            "technos": "JAVA, Spring, JCMS, espaces collaboratifs"
+          },
+          {
+            "name": "CG44",
+            "roles": [
+              "Accompagnement client"
+            ],
+            "technos": "JAVA, Spring, Javascript, JCMS"
+          }
+        ]
+      },
+      {
+        "company": "Nexeya Systems",
+        "title": "Developper",
+        "years": "Febrary 2014 - June 2014",
+        "description": "Development of ticketing tools and Android Application"
+      },
+      {
+        "company": "Naval Group (DCNS)",
+        "title": "Developper",
+        "years": "April 2013 - June 2013",
+        "description": "Stage in military context, development of security tool"
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Java",
-        "level":"70%"
+        "name": "Java",
+        "level": "70%"
       },
       {
-        "name":"Javascript",
-        "level":"75%"
+        "name": "Javascript",
+        "level": "75%"
       },
       {
-        "name":"Angular",
-        "level":"50%"
+        "name": "Angular",
+        "level": "50%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "CSS",
+        "level": "90%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name": "HTML5",
+        "level": "80%"
       },
       {
-        "name":"Git",
-        "level":"70%"
+        "name": "Git",
+        "level": "70%"
       },
       {
-        "name":"React",
-        "level":"40%"
+        "name": "React",
+        "level": "40%"
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "testimonials": {
+    "testimonials": [
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
       },
       {
-        "text":"Text",
-        "user":"Steve Wozniak... impersonator"
+        "text": "Text",
+        "user": "Steve Wozniak... impersonator"
       }
     ]
   }
