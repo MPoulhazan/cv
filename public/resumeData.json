@@ -2,7 +2,7 @@
   "main": {
     "name": "Mickael Poulhazan",
     "occupation": "Software Developper",
-    "description": "Full Stack Developper, I like to develop Backend applications in JAVA or Node. For the front, I use Javascript with frameworks, like Angular or React",
+    "description": "Lead dev Full Stack, Developpement backend with JAVA, Front with Angular and React in agile context",
     "image": "profilepic.jpg",
     "bio": "Full stack developper, I like to meet challenges",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
@@ -27,8 +27,8 @@
       },
       {
         "name": "skype",
-        "url": "http://skype.com",
-        "className": "fa fa-skype"
+        "url": "mailto:mickael.poulhazan@gmail.com?subject=[CV]%20-%20Hi%20Mickael",
+        "className": "fa fa-envelope"
       }
     ]
   },
@@ -42,7 +42,7 @@
         "description": "Electronic and Computer Engennering"
       },
       {
-        "school": "University of South Britanny",
+        "school": "University of South Britanny ",
         "degree": "Bachelor's degree",
         "graduated": "June 2012",
         "description": "Electronic and Computer Engennering"
@@ -54,7 +54,7 @@
         "description": "Electronic and Computer science"
       },
       {
-        "school": "Colbert College, Lorient",
+        "school": "Colbert College, Lorient ",
         "degree": " General Certificate of Education Advanced Level",
         "graduated": "June 2009",
         "description": "Electrotechnical"
@@ -124,16 +124,12 @@
           },
           {
             "name": "Business France",
-            "roles": [
-              "Création d'un intranet collaboratif"
-            ],
+            "roles": ["Création d'un intranet collaboratif"],
             "technos": "JAVA, Spring, JCMS, espaces collaboratifs"
           },
           {
             "name": "CG44",
-            "roles": [
-              "Accompagnement client"
-            ],
+            "roles": ["Accompagnement client"],
             "technos": "JAVA, Spring, Javascript, JCMS"
           }
         ]
@@ -157,12 +153,12 @@
         "level": "70%"
       },
       {
-        "name": "Javascript",
-        "level": "75%"
+        "name": "Typescript",
+        "level": "85%"
       },
       {
         "name": "Angular",
-        "level": "50%"
+        "level": "75%"
       },
       {
         "name": "CSS",
@@ -179,6 +175,22 @@
       {
         "name": "React",
         "level": "40%"
+      }
+    ],
+    "side": [
+      {
+        "company": "Parobot",
+        "title": "Chatbot for educational purposes",
+        "years": "Janvary 2020 - March 2021",
+        "description": "Creation of a chatbot aimed at teaching dental surgery medicine students as part of a thesis. The chatbot is deployed on the Nantes Faculty of Medicine intranet and accessible to students.A mobile application version is also available on the play store.",
+        "link": "https://chatbot-dentist.firebaseapp.com/"
+      },
+      {
+        "company": "Justime",
+        "title": "Timetable consultation app",
+        "years": "April 2019 - october 2019",
+        "description": "Creation of an application for consulting Nantes bus and tram timetables for personal use. Uploaded to the Playstore in December 2019.",
+        "link": "https://play.google.com/store/apps/details?id=com.justime.nantes"
       }
     ]
   },
