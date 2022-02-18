@@ -1,209 +1,225 @@
 {
-  "main": {
-    "name": "Mickael Poulhazan",
-    "occupation": "Software Developper",
-    "description": "Lead dev Full Stack, Developpement backend with JAVA, Front with Angular and React in agile context",
-    "image": "profilepic.jpg",
-    "bio": "Full stack developper, I like to meet challenges",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "mickael.poulhazan@gmail.com",
-    "phone": "(+33)6 45 89 47 48",
-    "address": {
-      "street": "3 Square Jean heurtin",
-      "city": "Nantes",
-      "state": "France",
-      "zip": "44000"
+    "main": {
+        "name": "Mickael Poulhazan",
+        "occupation": "Software Developper",
+        "description": "Lead dev Full Stack, Developpement backend with JAVA, Front with Angular and React in agile context",
+        "image": "profilepic.jpg",
+        "bio": "Full stack developper, I like to meet challenges",
+        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+        "email": "mickael.poulhazan@gmail.com",
+        "phone": "(+33)6 45 89 47 48",
+        "address": {
+            "street": "",
+            "city": "Montréal",
+            "state": "Canada",
+            "zip": ""
+        },
+        "social": [
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/micka%C3%ABl-poulhazan-59158761/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/MPoulhazan",
+                "className": "fa fa-github"
+            },
+            {
+                "name": "skype",
+                "url": "mailto:mickael.poulhazan@gmail.com?subject=[CV]%20-%20Hi%20Mickael",
+                "className": "fa fa-envelope"
+            }
+        ]
     },
-    "social": [
-      {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/micka%C3%ABl-poulhazan-59158761/",
-        "className": "fa fa-linkedin"
-      },
-      {
-        "name": "github",
-        "url": "https://github.com/MPoulhazan",
-        "className": "fa fa-github"
-      },
-      {
-        "name": "skype",
-        "url": "mailto:mickael.poulhazan@gmail.com?subject=[CV]%20-%20Hi%20Mickael",
-        "className": "fa fa-envelope"
-      }
-    ]
-  },
-  "resume": {
-    "skillmessage": "",
-    "education": [
-      {
-        "school": "University of South Britanny",
-        "degree": "Masters Degree's",
-        "graduated": "June 2014",
-        "description": "Electronic and Computer Engennering"
-      },
-      {
-        "school": "University of South Britanny ",
-        "degree": "Bachelor's degree",
-        "graduated": "June 2012",
-        "description": "Electronic and Computer Engennering"
-      },
-      {
-        "school": "Colbert College, Lorient",
-        "degree": "BTEC Higher National Diploma",
-        "graduated": "June 2011",
-        "description": "Electronic and Computer science"
-      },
-      {
-        "school": "Colbert College, Lorient ",
-        "degree": " General Certificate of Education Advanced Level",
-        "graduated": "June 2009",
-        "description": "Electrotechnical"
-      }
-    ],
-    "work": [
-      {
-        "company": "Thales Services",
-        "title": "Developper Full Stack",
-        "years": "December 2017 - Present",
-        "description": "Developpement of applications for civil or military domains.",
-        "project": [
-          {
-            "name": "Hysio",
-            "roles": [
-              "Développements et maintenance évolutive",
-              "Développement d’une application en Angular 8 avec Ionic",
-              "Responsable INFRA du projet",
-              "Mise en place de consumers Kafka en SpringBoot",
-              "Intégration d’ElasticSearch",
-              "Développement de dashboard de monitoring",
-              "Ateliers techniques participatifs",
-              "Travail en équipe",
-              "Animation retrospectives",
-              "Veille techno"
-            ],
-            "technos": "JAVA, SpringBoot, Angular, Kafka, ElasticSearch, HighCharts, Thymeleaf, Jooq, Architecture micro-services, programmation fonctionelle, programmation réactive, Agile, Monitoring"
-          },
-          {
-            "name": "Paasport",
-            "roles": [
-              "Développements et maintenance évolutive",
-              "Ateliers techniques participatifs",
-              "Travail en équipe",
-              "Veille techno"
-            ],
-            "technos": "JAVA, SpringBoot, Go, Architecture micro-services"
-          },
-          {
-            "name": "Devfest",
-            "roles": [
-              "Lead technique sur un projet de développement d'animation au stand Thales du devfest 2019"
-            ],
-            "technos": "JAVA, SpringBoot, Go, Architecture micro-services"
-          }
+    "resume": {
+        "skillmessage": "",
+        "education": [
+            {
+                "school": "University of South Britanny",
+                "degree": "Masters Degree's",
+                "graduated": "June 2014",
+                "description": "Electronic and Computer Engennering"
+            },
+            {
+                "school": "University of South Britanny ",
+                "degree": "Bachelor's degree",
+                "graduated": "June 2012",
+                "description": "Electronic and Computer Engennering"
+            },
+            {
+                "school": "Colbert College, Lorient",
+                "degree": "BTEC Higher National Diploma",
+                "graduated": "June 2011",
+                "description": "Electronic and Computer science"
+            },
+            {
+                "school": "Colbert College, Lorient ",
+                "degree": " General Certificate of Education Advanced Level",
+                "graduated": "June 2009",
+                "description": "Electrotechnical"
+            }
+        ],
+        "work": [
+            {
+                "company": "Banque Nationale du Canada",
+                "title": "Full-Stack Developper",
+                "years": "August 2021 - Today",
+                "description": "Full stack project for BNC website",
+                "project": [
+                    {
+                        "name": "AEM",
+                        "roles": [
+                            "Developpement and maintenance for BNC website",
+                            "Cloud management with AEM"
+                        ],
+                        "technos": "JAVA, React, AWS, Python, AEM"
+                    }
+                ]
+            },
+            {
+                "company": "Thales Services",
+                "title": "Developper Full Stack",
+                "years": "December 2017 - july 2021",
+                "description": "Developpement of applications for civil or military domains.",
+                "project": [
+                    {
+                        "name": "Hysio",
+                        "roles": [
+                            "Développements et maintenance évolutive",
+                            "Développement d’une application en Angular 8 avec Ionic",
+                            "Responsable INFRA du projet",
+                            "Mise en place de consumers Kafka en SpringBoot",
+                            "Intégration d’ElasticSearch",
+                            "Développement de dashboard de monitoring",
+                            "Ateliers techniques participatifs",
+                            "Travail en équipe",
+                            "Animation retrospectives",
+                            "Veille techno"
+                        ],
+                        "technos": "JAVA, SpringBoot, Angular, Kafka, ElasticSearch, HighCharts, Thymeleaf, Jooq, Architecture micro-services, programmation fonctionelle, programmation réactive, Agile, Monitoring"
+                    },
+                    {
+                        "name": "Paasport",
+                        "roles": [
+                            "Développements et maintenance évolutive",
+                            "Ateliers techniques participatifs",
+                            "Travail en équipe",
+                            "Veille techno"
+                        ],
+                        "technos": "JAVA, SpringBoot, Go, Architecture micro-services"
+                    },
+                    {
+                        "name": "Devfest",
+                        "roles": [
+                            "Lead technique sur un projet de développement d'animation au stand Thales du devfest 2019"
+                        ],
+                        "technos": "JAVA, SpringBoot, Go, Architecture micro-services"
+                    }
+                ]
+            },
+            {
+                "company": "TRSB",
+                "title": "Developper",
+                "years": "November 2014 - December 2017",
+                "description": "My fist Job, where I worked for big groups like RATP",
+                "project": [
+                    {
+                        "name": "RATP",
+                        "roles": [
+                            "Développement de portlet JSR286 à partir de WS REST",
+                            "Refonte de l’intranet RATP",
+                            "Migration CMS",
+                            "Qualification ticket et chiffrage évolutions",
+                            "Rédaction modop et documents",
+                            "Management d’équipe",
+                            "Contact client",
+                            "Recette et livraisons"
+                        ],
+                        "technos": "JAVA, Spring, JSR286, MVC, SOAP, REST, Javascript, CSS3, HTML5, JCMS"
+                    },
+                    {
+                        "name": "Business France",
+                        "roles": ["Création d'un intranet collaboratif"],
+                        "technos": "JAVA, Spring, JCMS, espaces collaboratifs"
+                    },
+                    {
+                        "name": "CG44",
+                        "roles": ["Accompagnement client"],
+                        "technos": "JAVA, Spring, Javascript, JCMS"
+                    }
+                ]
+            },
+            {
+                "company": "Nexeya Systems",
+                "title": "Developper",
+                "years": "Febrary 2014 - June 2014",
+                "description": "Development of ticketing tools and Android Application"
+            },
+            {
+                "company": "Naval Group (DCNS)",
+                "title": "Developper",
+                "years": "April 2013 - June 2013",
+                "description": "Stage in military context, development of security tool"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Java",
+                "level": "70%"
+            },
+            {
+                "name": "Typescript",
+                "level": "85%"
+            },
+            {
+                "name": "Angular",
+                "level": "75%"
+            },
+            {
+                "name": "CSS",
+                "level": "90%"
+            },
+            {
+                "name": "HTML5",
+                "level": "80%"
+            },
+            {
+                "name": "Git",
+                "level": "70%"
+            },
+            {
+                "name": "React",
+                "level": "40%"
+            }
+        ],
+        "side": [
+            {
+                "company": "Parobot",
+                "title": "Chatbot for educational purposes",
+                "years": "Janvary 2020 - March 2021",
+                "description": "Creation of a chatbot aimed at teaching dental surgery medicine students as part of a thesis. The chatbot is deployed on the Nantes Faculty of Medicine intranet and accessible to students.A mobile application version is also available on the play store.",
+                "link": "https://chatbot-dentist.firebaseapp.com/"
+            },
+            {
+                "company": "Justime",
+                "title": "Timetable consultation app",
+                "years": "April 2019 - october 2019",
+                "description": "Creation of an application for consulting Nantes bus and tram timetables for personal use. Uploaded to the Playstore in December 2019.",
+                "link": "https://play.google.com/store/apps/details?id=com.justime.nantes"
+            }
         ]
-      },
-      {
-        "company": "TRSB",
-        "title": "Developper",
-        "years": "November 2014 - December 2017",
-        "description": "My fist Job, where I worked for big groups like RATP",
-        "project": [
-          {
-            "name": "RATP",
-            "roles": [
-              "Développement de portlet JSR286 à partir de WS REST",
-              "Refonte de l’intranet RATP",
-              "Migration CMS",
-              "Qualification ticket et chiffrage évolutions",
-              "Rédaction modop et documents",
-              "Management d’équipe",
-              "Contact client",
-              "Recette et livraisons"
-            ],
-            "technos": "JAVA, Spring, JSR286, MVC, SOAP, REST, Javascript, CSS3, HTML5, JCMS"
-          },
-          {
-            "name": "Business France",
-            "roles": ["Création d'un intranet collaboratif"],
-            "technos": "JAVA, Spring, JCMS, espaces collaboratifs"
-          },
-          {
-            "name": "CG44",
-            "roles": ["Accompagnement client"],
-            "technos": "JAVA, Spring, Javascript, JCMS"
-          }
+    },
+    "testimonials": {
+        "testimonials": [
+            {
+                "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+                "user": "Kareem Abdul Jabbar"
+            },
+            {
+                "text": "Text",
+                "user": "Steve Wozniak... impersonator"
+            }
         ]
-      },
-      {
-        "company": "Nexeya Systems",
-        "title": "Developper",
-        "years": "Febrary 2014 - June 2014",
-        "description": "Development of ticketing tools and Android Application"
-      },
-      {
-        "company": "Naval Group (DCNS)",
-        "title": "Developper",
-        "years": "April 2013 - June 2013",
-        "description": "Stage in military context, development of security tool"
-      }
-    ],
-    "skills": [
-      {
-        "name": "Java",
-        "level": "70%"
-      },
-      {
-        "name": "Typescript",
-        "level": "85%"
-      },
-      {
-        "name": "Angular",
-        "level": "75%"
-      },
-      {
-        "name": "CSS",
-        "level": "90%"
-      },
-      {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "Git",
-        "level": "70%"
-      },
-      {
-        "name": "React",
-        "level": "40%"
-      }
-    ],
-    "side": [
-      {
-        "company": "Parobot",
-        "title": "Chatbot for educational purposes",
-        "years": "Janvary 2020 - March 2021",
-        "description": "Creation of a chatbot aimed at teaching dental surgery medicine students as part of a thesis. The chatbot is deployed on the Nantes Faculty of Medicine intranet and accessible to students.A mobile application version is also available on the play store.",
-        "link": "https://chatbot-dentist.firebaseapp.com/"
-      },
-      {
-        "company": "Justime",
-        "title": "Timetable consultation app",
-        "years": "April 2019 - october 2019",
-        "description": "Creation of an application for consulting Nantes bus and tram timetables for personal use. Uploaded to the Playstore in December 2019.",
-        "link": "https://play.google.com/store/apps/details?id=com.justime.nantes"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "Text",
-        "user": "Steve Wozniak... impersonator"
-      }
-    ]
-  }
+    }
 }
