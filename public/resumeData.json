@@ -195,6 +195,20 @@
         ],
         "side": [
             {
+                "company": "SIWC Article",
+                "title": "Article promotion for sign In with Conflux",
+                "years": " May 2022",
+                "description": "Writing of an article for SIWC promotion, the lib is used by blockchain developers",
+                "link": "https://medium.com/@mickalpoulhazan/sign-in-with-conflux-f394d9c0d099"
+            },
+            {
+                "company": "SIWC",
+                "title": "Sign In with Conflux",
+                "years": "March 2022 - May 2022",
+                "description": "Creation of a library for blockchain authentification. Sign-In with Conflux describes how Conflux accounts authenticate with off-chain services by signing a standard message format parameterized by scope, session details, and security mechanisms (e.g., a nonce). The goals of this specification are to provide a self-custodied alternative to centralized identity providers, improve interoperability across off-chain services for Conflux-based authentication, and provide wallet vendors a consistent machine-readable message format to achieve improved user experiences and consent management.",
+                "link": "https://github.com/MPoulhazan/siwc"
+            },
+            {
                 "company": "Parobot",
                 "title": "Chatbot for educational purposes",
                 "years": "Janvary 2020 - March 2021",

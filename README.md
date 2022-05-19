@@ -1,4 +1,5 @@
-# React JS CV     
+# React JS CV
 
 ## Description
-This is my online CV developped in react JS
+
+Online CV developped in react JS
